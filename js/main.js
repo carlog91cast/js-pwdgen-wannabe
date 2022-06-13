@@ -19,4 +19,5 @@ document.getElementById('user-color').innerHTML = userColor;
 
 // suggested-psw
 
-const userPsw = "Add Name" + "Add Surname" + "Add preferite color"
+const userPsw = userName + userSurname + userColor + "22";
+document.getElementById('user-psw').innerHTML = userPsw;
