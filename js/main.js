@@ -16,6 +16,7 @@ document.getElementById('user-surname').innerHTML = userSurname;
 const userColor = prompt('Add preferite color');
 
 document.getElementById('user-color').innerHTML = userColor;
+document.getElementById("user-color").style.backgroundColor = "blue";
 
 // suggested-psw
 
