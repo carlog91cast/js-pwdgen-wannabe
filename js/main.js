@@ -1,0 +1,1 @@
+const userName = prompt('Inserisci il tuo nome');
